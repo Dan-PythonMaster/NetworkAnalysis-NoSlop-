@@ -1,0 +1,13 @@
+COVID-like parameters, 400 configurations, 10% coverage
+strategy                mean     std  median   mean %  took off  saved (95% CI)
+contact time           119.9   189.7       6    17.3%     36.5%    223.4 +-24.4
+degree                 157.3   222.5       8    22.7%     40.5%    186.1 +-22.0
+week-1 degree          166.5   228.5       6    24.1%     42.2%    176.8 +-21.5
+betweenness            169.7   229.0       7    24.5%     42.2%    173.6 +-21.1
+ring                   187.7   245.3       8    27.1%     43.0%    155.6 +-20.0
+acquaintance           206.7   252.4       7    29.9%     46.2%    136.6 +-18.5
+random                 234.9   266.0      41    33.9%     49.0%    108.4 +-15.8
+community bridges      250.9   272.7      53    36.3%     50.2%     92.4 +-14.2
+none                   343.3   316.7     351    49.6%     58.8%      0.0 +- 0.0
+best: contact time
+finished in 1176s

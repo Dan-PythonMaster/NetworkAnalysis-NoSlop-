@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Videos are rendered, not committed: see covid_animation.py.
+*.mp4
+_raw_*
+ffmpeg2pass*
+*.log
+
+# Every individual simulation of the sweep; the committed summary is what the figures use.
+results/bt_sweep_runs.csv

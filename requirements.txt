@@ -1,0 +1,9 @@
+numpy
+matplotlib
+
+# graph-tool is not on PyPI and is Linux/macOS only. Install it with
+#   conda install -c conda-forge graph-tool
+# It is needed only to load the data and for a few graph routines; the plot scripts and
+# presentation/build_deck.py run from the committed results without it.
+#
+# covid_animation.py also needs ffmpeg on PATH.

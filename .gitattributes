@@ -1,0 +1,7 @@
+# Keep the working tree the same on every machine: source and data in LF, binaries alone.
+* text=auto eol=lf
+
+*.png binary
+*.npz binary
+*.mp4 binary
+*.pdf binary
