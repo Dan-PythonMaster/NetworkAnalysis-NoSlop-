@@ -1,0 +1,16 @@
+{
+  "raw_rows": 5474289,
+  "invalid_numeric_rows": 0,
+  "invalid_id_rows": 3048010,
+  "self_loop_rows": 0,
+  "invalid_rssi_rows": 4,
+  "duplicate_pair_timestamp_rows": 0,
+  "clean_observations": 2426275,
+  "observed_participant_ids": 706,
+  "observations_after_rssi_and_time_filter": 438543,
+  "edges_after_min_contacts_filter": 23669,
+  "rssi_min": -75,
+  "min_contacts": 1,
+  "window_start": null,
+  "window_stop": null
+}

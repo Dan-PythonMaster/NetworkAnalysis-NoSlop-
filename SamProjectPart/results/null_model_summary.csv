@@ -1,0 +1,5 @@
+,edges,edges,average_degree,average_degree,average_clustering,average_clustering,global_transitivity,global_transitivity,components,components,diameter_largest_component,diameter_largest_component
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+model,,,,,,,,,,,,
+BA,23485.0,0.0,66.52974504249292,0.0,0.1733441702534056,0.0018559199603222034,0.17240117724340087,0.000892972175940466,1.0,0.0,3.0,0.0
+ER,23669.0,0.0,67.05099150141643,0.0,0.0951608167172266,0.0003978625615514356,0.09516852950787319,0.000347563064467457,1.0,0.0,3.0,0.0

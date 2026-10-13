@@ -1,0 +1,2 @@
+nodes,edges,density,average_degree,average_clustering,global_transitivity,components,isolates,largest_component_nodes,largest_component_fraction,diameter_largest_component,diameter_full_graph
+706,23669,0.09510778936371125,67.05099150141643,0.29741909021035806,0.2755807374730438,33,31,673,0.953257790368272,5,
